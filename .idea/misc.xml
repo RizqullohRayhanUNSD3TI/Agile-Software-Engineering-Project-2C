@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/College/UTSRPL/fork/Agile-Software-Engineering-Project-2C/app/src/main/res/layout/activity_profil_nela.xml" value="0.1265625" />
+        <entry key="..\:/RPLUAS/Agile-Software-Engineering-Project-2C/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/RPLUAS/Agile-Software-Engineering-Project-2C/app/src/main/res/layout/activity_profil_syifa.xml" value="0.11302083333333333" />
         <entry key="..\:/UTSPRL/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/UTSPRL/app/src/main/res/layout/activity_profil_nadiah.xml" value="0.33" />
+        <entry key="..\:/UTSPRL/app/src/main/res/layout/activity_profil_nela.xml" value="0.21" />
+        <entry key="..\:/UTSPRL/app/src/main/res/layout/activity_profil_rizqulloh.xml" value="0.27291666666666664" />
+        <entry key="..\:/UTSPRL/app/src/main/res/layout/activity_profil_syifa.xml" value="0.27291666666666664" />
       </map>
     </option>
   </component>

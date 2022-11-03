@@ -2,6 +2,7 @@ package com.example.utsprl;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
@@ -39,15 +40,20 @@ public class MainActivity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 String selectedItem = (String) parent.getItemAtPosition(position);
                 if (selectedItem=="Nadiah Hatta Mokora"){
-
+                    Intent intent = new Intent(getApplicationContext(), ProfilNadiah.class);
+                    startActivity(intent);
                 } else if (selectedItem=="Nailul Munjidah"){
-
+                    Intent intent = new Intent(getApplicationContext(), ProfilNela.class);
+                    startActivity(intent);
                 }else if (selectedItem=="Ramsya Devanaqia Vansa Aseka"){
-
+//                    Intent intent = new Intent(getApplicationContext(), ProfilNela.class);
+//                    startActivity(intent);
                 }else if (selectedItem=="Rizqulloh Rayhan Ferdiansyah"){
-
+                    Intent intent = new Intent(getApplicationContext(), Profil_Rizqulloh.class);
+                    startActivity(intent);
                 }else if (selectedItem=="Syifa' Aulia Ash-Sholihah"){
-
+                    Intent intent = new Intent(getApplicationContext(), ProfilSyifa.class);
+                    startActivity(intent);
                 }
             }
         });

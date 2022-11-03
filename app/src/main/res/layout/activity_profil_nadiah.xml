@@ -28,8 +28,7 @@
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="5dp"
-            android:src="@drawable/foto"
-            app:srcCompat="@drawable/nadiah__2_" />
+            android:src="@drawable/nadiah__2_"/>
 
 
     </RelativeLayout>

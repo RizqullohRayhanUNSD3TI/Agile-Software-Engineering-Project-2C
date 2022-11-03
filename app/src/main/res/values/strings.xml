@@ -2,4 +2,17 @@
     <string name="app_name">UTS PRL</string>
     <string name="judul_hal_awal">Kelompok 2C</string>
     <string name="uns"></string>
+
+    <string name="hint_nama">Nama Lengkap</string>
+    <string name="hint_nim">NIM</string>
+    <string name="hint_ttl">Tempat, Tanggal lahir</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_alamat">Alamat</string>
+
+    <string name="fotoRizqulloh"></string>
+    <string name="nama_Rizqulloh">Rizqulloh Rayhan Ferdiansyah</string>
+    <string name="email_Rizqulloh">rizqullohrayhan@student.uns.ac.id</string>
+    <string name="nim_Rizqulloh">V3421083</string>
+    <string name="ttl_Rizqulloh">Jombang, 04 Januari 2003</string>
+    <string name="alamat_Rizqulloh">Jombang, Jawa Timur</string>
 </resources>

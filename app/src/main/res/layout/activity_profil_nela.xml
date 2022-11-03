@@ -28,12 +28,7 @@
             android:layout_centerHorizontal="true"
             android:layout_marginTop="37dp"
             android:src="@drawable/profile"
-            app:civ_border_color="@color/colorAccent"
-            app:civ_border_width="6dp"
-            app:civ_shadow="true"
-            app:civ_shadow_color="#8BC34A"
-            app:civ_shadow_radius="10"
-            app:srcCompat="@drawable/profile" />
+        />
 
 
     </RelativeLayout>

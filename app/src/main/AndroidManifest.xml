@@ -17,7 +17,13 @@
             android:name=".ProfilNela"
             android:exported="false" />
         <activity
-            android:name=".activity_profil_nadiah"
+            android:name=".ProfilSyifa"
+            android:exported="false" />
+        <activity
+            android:name=".ProfilNadiah"
+            android:exported="false" />
+        <activity
+            android:name=".Profil_Rizqulloh"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
