@@ -5,6 +5,6 @@ Project ini dibuat oleh Kelompok 2C dengan anggota:
 
 1.  Nadiah Hatta Mokora (V3421069)
 2.  Nailul Munjidah (V3421070)
-3.  Ramsya Aseka (V3421077)
+3.  Ramsya Devanaqia Vansa Aseka (V3421077)
 4.  Rizqulloh Rayhan Ferdiansyah (V3421083)
-5.  Syifa' Auliya Ash-Sholihah (V3421090)
+5.  Syifa' Auliya Ash-Sholihah (V3421090)
