@@ -46,8 +46,8 @@ public class MainActivity extends AppCompatActivity {
                     Intent intent = new Intent(getApplicationContext(), ProfilNela.class);
                     startActivity(intent);
                 }else if (selectedItem=="Ramsya Devanaqia Vansa Aseka"){
-//                    Intent intent = new Intent(getApplicationContext(), ProfilNela.class);
-//                    startActivity(intent);
+                    Intent intent = new Intent(getApplicationContext(), ProfilVansa.class);
+                    startActivity(intent);
                 }else if (selectedItem=="Rizqulloh Rayhan Ferdiansyah"){
                     Intent intent = new Intent(getApplicationContext(), Profil_Rizqulloh.class);
                     startActivity(intent);
